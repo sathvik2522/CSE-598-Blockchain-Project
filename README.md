@@ -1,6 +1,8 @@
 # CSE-598-Blockchain-Project
 
 Decentralized Voting System using Ethereum Blockchain
+
+
 CSE 598 Project by Team BlockchainBuddies
 
 
